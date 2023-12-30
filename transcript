@@ -1,0 +1,9 @@
+# vsim -c tb_processor -voptargs="+acc=voptargs" -do "run -all" 
+# Start time: 19:00:36 on Dec 30,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: processor.sv(206): Module 'first_reg' is not defined.
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 19:00:37 on Dec 30,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
