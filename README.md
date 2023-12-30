@@ -1,4 +1,4 @@
-# Report on 3-Stage Pipelined Processor with CSR Interrupt Handling and Hazard Control
+# 3-Stage Pipelined Processor with CSR Interrupt Handling and Hazard Control
 
 ## Introduction
 
