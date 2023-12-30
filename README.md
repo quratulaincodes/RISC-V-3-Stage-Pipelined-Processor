@@ -40,7 +40,9 @@ The implemented design is a 3-stage pipelined processor based on the RISC-V arch
 
 13. **First Register (first_reg):** Manages the registers for the first stage of the pipeline, handling stall, flush, and CSR-related operations.
 
-14. **Hazard Unit:** Detects hazards and controls forwarding and stalling in the pipeline.
+14. **Second Register (second_reg):** Manages the registers for the second stage of the pipeline, handling stall, flush, and CSR-related operations.
+
+15. **Hazard Unit:** Detects hazards and controls forwarding and stalling in the pipeline.
 
 ## Pipeline Operation
 
